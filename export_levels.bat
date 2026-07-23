@@ -39,6 +39,7 @@ py export_levels.py^
  ultimatedestruction^
  pyrophoric^
  cantletgov2^
+ f^
  funnygameholiday^
  revolution^
  tig_oglevel^

@@ -39,6 +39,7 @@ levels=(
   ultimatedestruction
   pyrophoric
   cantletgov2
+  f
   funnygameholiday
   revolution
   tig_oglevel
